@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, world! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Jordi Contestí, and I live on the lovely island of Mallorca, Spain. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently, I am the Head of Data at habitissimo, where I am responsible for Data Science
+ and Data Engineering projects. I hold an MSc in Computer Science and another in 
+ Business Intelligence and Big Data.
 
+I can speak Catalan, Spanish, English, German and French. I write articles in English to
+ practice this language and to reach a broader audience. 
 
-[jekyll-organization]: https://github.com/jekyll
+I consider myself a lifelong learner: always wanting to learn new things! Right now, I 
+am interested in Artificial Intelligence, Data Science and Software Engineering.
