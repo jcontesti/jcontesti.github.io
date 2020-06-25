@@ -16,7 +16,6 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-admin", "~> 0.10.1"
   gem "jekyll-sitemap", "~> 1.4.0"
 end
 
@@ -30,3 +29,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+# Fix vulnerability CVE-2020-8184
+gem "rack", ">= 2.1.4"
