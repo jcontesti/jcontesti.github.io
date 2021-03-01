@@ -21,7 +21,7 @@
 title: Jordi Contestí
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  About Artificial Intelligence, Data Science and Data Engineering
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.jcontesti.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jordi_contesti
