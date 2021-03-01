@@ -29,6 +29,8 @@ Through all these 10 years, I come across some simple facts that I would like to
 
 1. You can improve your productivity by copying habits from your colleagues, friends, family or partner. Anything that works for people around you may help you, and there is no need to read them on any book or productivity website.
 
+1. Tools are irrelevant.
+
 1. Getting ideas and tasks out of your head is the best advice to improve your productivity, and it is a common rule in many Personal Productivity methodologies.
 
 1. Prefer continuous goals over end goals.
