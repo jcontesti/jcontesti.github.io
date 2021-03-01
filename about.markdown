@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, World! 
+[Hello, World!]
 
 My name is Jordi Contestí, and I live on the lovely island of Mallorca, Spain. 
 
@@ -15,11 +15,12 @@ I consider myself a [lifelong learner]: always wanting to learn new things. Righ
 
 You can expect articles and personal opinions about all these topics on this website, but I am open to writing about any topic. 
 
-Although I can speak Catalan and Spanish as native languages, this site is written in English, one of my [second languages] because I also studied German and French years ago.
+Although I can speak Catalan and Spanish as native languages, this site is written in English, one of my three [second languages] because I also studied German and French years ago.
 
 Would you like to get in contact with me? Please, send me a message via 
 [my page at LinkedIn] or [my account at Twitter].
 
+[Hello, World!]: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
 [habitissimo]: https://www.habitissimo.es
 [lifelong learner]: https://en.wikipedia.org/wiki/Lifelong_learning
 [second languages]: https://en.wikipedia.org/wiki/Second_language
