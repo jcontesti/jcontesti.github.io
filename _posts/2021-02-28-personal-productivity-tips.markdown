@@ -2,14 +2,14 @@
 layout: post
 title:  "Reflections on Personal Productivity after 10-years experience"
 date:   2021-02-28 12:10:30 +0100
-categories: GTD productivity
+category: personal productivity
 published: true
 ---
 I have spent more than 10 years of my life practising the methodology [Getting Things Done], reading many Personal Productivity books or articles and watching uncountable hours of videos on the Internet about this topic. 
 
 I remember being really thrilled when introducing a new strategy in my life to become smarter, faster and better. After some time, I stopped improving my personal system and left it as I use it today.
 
-Through all these 10 years, I come across some simple facts that I would like to have known when I started. Let me share them with you, in no special order:
+Over these 10 years, I discovered some simple facts that I would like to have known when I started. Let me share them with you, in no special order:
 
 1. All the methods and techniques you can find on the Internet, books, articles and YouTube videos might work for you... or might not. 
 
@@ -39,7 +39,7 @@ Through all these 10 years, I come across some simple facts that I would like to
 
 1. You can always improve your personal system, but having reached some point, further improvements don't worth the effort.
 
-1. If Personal Productivity doesn't find you more time for the things that really matter, like your family and friends, then it is useless.
+1. And at last but not least, if Personal Productivity doesn't find you more time for the things that really matter, like your family and friends, then it's useless.
 
 [Getting Things Done]: https://gettingthingsdone.com 
 
