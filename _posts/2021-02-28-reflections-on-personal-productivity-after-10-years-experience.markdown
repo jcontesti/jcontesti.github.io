@@ -39,7 +39,7 @@ Over these 10 years, I discovered some simple facts that I would like to have kn
 
 1. You can always improve your personal system, but having reached some point, further improvements don't worth the effort.
 
-1. And at last but not least, if Personal Productivity doesn't find you more time for the things that really matter, like your family and friends, then it's useless.
+1. And last but not least, if Personal Productivity doesn't find you more time for the things that really matter, like your family and friends, then it's useless.
 
 [Getting Things Done]: https://gettingthingsdone.com 
 
