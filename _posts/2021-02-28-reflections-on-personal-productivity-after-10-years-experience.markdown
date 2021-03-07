@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflections on Personal Productivity after 10-years experience"
 date:   2021-02-28 12:10:30 +0100
-category: personal productivity
+tag: personal productivity
 published: true
 ---
 I have spent more than 10 years of my life practising the methodology [Getting Things Done], reading many Personal Productivity books or articles and watching uncountable hours of videos on the Internet about this topic. 
