@@ -6,7 +6,7 @@ tag: data science
 published: true
 ---
 
-It's 2021, and data science has become a commodity in many companies, but only those who really understood the value and its impact. On the other hand, some companies follow a new religion inspired by data science, which I call "data pseudoscience". 
+Data science has become a commodity in many companies, but only those who really understood the value and its impact. On the other hand, some companies follow a new religion inspired by data science, which I call "data pseudoscience". 
 
 Trapped by the hype of Artificial Intelligence, Machine Learning, Deep Learning and other cool words, many companies feel the urge of adopting all this stuff in the name of profit increasing. The fact is that they don't even bother to understand what it is all about, presumably because it would transform the company in a way nobody in the Direction Board would accept: when decisions are based on data, how will the directors justify their high recompenses?
 
